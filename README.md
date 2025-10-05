@@ -15,6 +15,10 @@ A budget app built with React Native, Expo, and TypeScript.
    ```bash
    npm install
    ```
+3. Clear cache for first time just in case:
+   ```
+   npx expo start --clear
+   ```
 
 ### Running the App
 
